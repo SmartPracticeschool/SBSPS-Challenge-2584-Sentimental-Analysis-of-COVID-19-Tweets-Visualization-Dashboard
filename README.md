@@ -1,6 +1,7 @@
 # Sentiment-Analysis-of-COVID19-Tweets
 
 **Sentiment Analysis of COVID-19 Tweets and visualization of the results using streamlit web app and plotly dashboard.**  
+
 **Streamlit web app:-**
 https://covid19india-sentiment.herokuapp.com  
 
